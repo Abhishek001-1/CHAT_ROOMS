@@ -1,4 +1,4 @@
-# Chat-App
+# Chatopia - Chat-App
 
 To Start the Application
 1) Initialise node in your pc
